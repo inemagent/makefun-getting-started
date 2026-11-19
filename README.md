@@ -20,9 +20,9 @@ the checks look for, and where first-timers usually trip.
 
 > ### Start here — sign up through my referral link
 >
-> **[https://make.fun/r/wbf57r05](https://make.fun/r/wbf57r05)**
+> **[https://make.fun/r/2k1x699m](https://make.fun/r/2k1x699m)**
 >
-> Referral code: **`wbf57r05`** — the same code works as `?ref=wbf57r05` on any make.fun page.
+> Referral code: **`2k1x699m`** — the same code works as `?ref=2k1x699m` on any make.fun page.
 > Signing up costs nothing, and using the link is how this guide gets credited if it helped you.
 
 ## Your first hour, in one checklist
@@ -107,7 +107,7 @@ as practice with a prize attached, not the other way round.
 
 ## Step 1 — Create your account
 
-1. Open **[https://make.fun/r/wbf57r05](https://make.fun/r/wbf57r05)** and choose **Sign in**
+1. Open **[https://make.fun/r/2k1x699m](https://make.fun/r/2k1x699m)** and choose **Sign in**
    (top right).
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Every route is free, and
    signing in with a wallet sends no transaction and moves no funds.
@@ -339,8 +339,8 @@ yours.
 ## Referrals: how this guide earns, and how yours will
 
 Every make.fun account gets a referral link on the **Referrals** tab of its profile. Mine is
-**[https://make.fun/r/wbf57r05](https://make.fun/r/wbf57r05)** (code **`wbf57r05`**); adding
-`?ref=wbf57r05` to any make.fun link does the same job. How the program works, in plain terms:
+**[https://make.fun/r/2k1x699m](https://make.fun/r/2k1x699m)** (code **`2k1x699m`**); adding
+`?ref=2k1x699m` to any make.fun link does the same job. How the program works, in plain terms:
 
 - **First touch wins.** The first referral code a visitor's browser sees is the one that binds,
   and it stays bound for 60 days. A later link does not replace it.
@@ -428,4 +428,4 @@ the README.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=wbf57r05&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards · Guide by @inem — sign up with my referral link: https://make.fun/r/wbf57r05 · code `wbf57r05`</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=2k1x699m&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards · Guide by @inem — sign up with my referral link: https://make.fun/r/2k1x699m · code `2k1x699m`</sub>
